@@ -1,0 +1,108 @@
+.nome {
+    color:white;
+}
+
+body {
+    background-color: black;
+    background-size: cover;
+    text-align: center;
+}
+
+.legenda {
+    color: white;
+}
+
+.legenda2{
+    color: white;
+}
+
+.botão{
+    color: white;
+}
+
+.Tema_titulo{
+    color: white;
+}
+
+.containerVantagem{
+    color: white;
+}
+
+.Tema_titulo2{
+    color: white;
+}
+
+.Titulo_consultoria{
+    color: white;
+}
+
+.containerBaraunaSquad{
+    color: white;    
+}
+
+.Preco{
+    color: white;
+}
+
+.container_Team_Gustavo{
+    color: white;
+}
+
+.botão_Plano{
+    color: white;
+}
+
+.container_Consultoria_Iron{
+    color: white;
+    width: 600px;
+    height: 710px;
+    border: 2px solid #34CA55;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.barra {
+    width: 400px;
+    border-color: blueviolet;
+}
+
+.linha {
+    background-color: blue;
+}
+
+.img {
+    width: 15%;
+    position: relative;
+}
+
+.container1 {
+    display: flex;
+}
+
+.card {
+    height: 100%;
+    width: 50%;
+    background-color: brown;
+    border: 1px solid white;
+    color: white;
+}
+
+/* 
+    Aprenda Flexbox em 10 Minutos | Tutorial de HTML & CSS
+    https://www.youtube.com/watch?v=h4FpFvHdm-U 
+ */
+
+.icon {
+    list-style-image: url(../imagens/check.png);
+    color: white;
+    list-style-position: inside;
+    font; 
+    padding: 20px;
+   /*  Font family: Montserrat;
+     Font style: Medium Font size: 64.2px ;
+     Line height: 78px;
+      Line height: 100%;
+       Align: Left ;
+       Vertical align: Top ;
+       background-color: black; */
+}
