@@ -37,7 +37,12 @@ body {
 }
 
 .containerBaraunaSquad{
-    color: white;    
+    color: white; 
+    width: 600px;
+    height: 710px;
+    border: 2px solid #34CA55;
+    border-radius: 15px;
+    text-align: center;   
 }
 
 .Preco{
@@ -46,6 +51,11 @@ body {
 
 .container_Team_Gustavo{
     color: white;
+    width: 600px;
+    height: 710px;
+    border: 2px solid #34CA55;
+    border-radius: 15px;
+    text-align: center;
 }
 
 .botão_Plano{
